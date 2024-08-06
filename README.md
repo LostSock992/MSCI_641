@@ -1,4 +1,5 @@
-# MSCI_641
+# Movie Genre Classification Using Machine Learning and Deep Learning Models
+
 Custom Multiple Genre Classification
 The task of movie genre classification involves
 categorizing movie plots into predefined genres based on their textual descriptions. This
